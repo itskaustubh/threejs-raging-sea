@@ -44,8 +44,8 @@ const material = new THREE.ShaderMaterial({
 
 // Color 
 const debugObject = {
-    surfaceColor : '#ff00d8',
-    depthColor   : '#22fdc9',
+    surfaceColor : '#ffffff',
+    depthColor   : '#11aac7',
 }
 
 gui.add(material.uniforms.uBigWaveElevation, 'value').min(0).max(1).step(0.001).name('Big Wave Elevation')
