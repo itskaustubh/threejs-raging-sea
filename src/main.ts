@@ -32,7 +32,7 @@ const material = new THREE.ShaderMaterial({
 
         uSmallWaveElevation : { value : 0.2},
         uSmallWaveFrequency : { value : 6},
-        uSmallWaveSpeed     : { value : 1},
+        uSmallWaveSpeed     : { value : 0.6},
         uSmallWaveIterations : { value : 4},
 
         uColorSurface : { value : new THREE.Color('#ffffff')},
