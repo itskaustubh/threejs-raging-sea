@@ -1,5 +1,6 @@
 {
   "name": "threejs-project",
+  "homepage": "threejs-raging-sea",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
